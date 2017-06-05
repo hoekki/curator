@@ -1,0 +1,13 @@
+{
+    "name": "vendor/curator",
+    "description": "Description of project curator.",
+    "authors": [
+        {
+            "name": "Felix Hoecker",
+            "email": "felix.hoecker@outlook.com"
+        }
+    ],
+    "require": {
+        "slim/slim-skeleton": "dev-master"
+    }
+}
